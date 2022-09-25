@@ -1,0 +1,397 @@
+{
+  "my_home_page": {
+    "banner": {
+      "image": "/assets/Imagine/d01.jpg"
+    },
+    "archievement_rate": {
+      "background_image": "",
+      "total": 21,
+      "archieved": 5,
+      "percentage": 75
+    },
+    "menus": [
+      {
+        "icon": "/assets/icons/icon_knife.svg",
+        "title": "Morning",
+        "id": "morning",
+        "link": {
+          "title": "morning",
+          "href": "/"
+        }
+      },
+      {
+        "icon": "/assets/icons/icon_knife.svg",
+        "title": "Lunch",
+        "id": "lunch",
+        "link": {
+          "title": "lunch",
+          "href": "/"
+        }
+      },
+      {
+        "icon": "/assets/icons/icon_knife.svg",
+        "title": "Dinner",
+        "id": "dinner",
+        "link": {
+          "title": "dinner",
+          "href": "/"
+        }
+      },
+      {
+        "icon": "/assets/icons/coffee-15.svg",
+        "title": "Snack",
+        "id": "snack",
+        "link": {
+          "title": "snack",
+          "href": "/"
+        }
+      }
+    ],
+    "products": [
+      {
+        "background_image": "/assets/Imagine/m01.jpg",
+        "desc": "05.21.Morning",
+        "menu_id": "morning"
+      },
+      {
+        "background_image": "/assets/Imagine/m02.jpg",
+        "desc": "05.21.Lunch",
+        "menu_id": "lunch"
+      },
+      {
+        "background_image": "/assets/Imagine/m03.jpg",
+        "desc": "05.21.Dinner",
+        "menu_id": "dinner"
+      },
+      {
+        "background_image": "/assets/Imagine/d01.jpg",
+        "desc": "05.20.Morning",
+        "menu_id": "morning"
+      },
+      {
+        "background_image": "/assets/Imagine/d02.jpg",
+        "desc": "05.20.Lunch",
+        "menu_id": "lunch"
+      },
+      {
+        "background_image": "/assets/Imagine/d03.png",
+        "desc": "05.20.Dinner",
+        "menu_id": "dinner"
+      },
+      {
+        "background_image": "/assets/Imagine/l01.jpg",
+        "desc": "05.21.Morning",
+        "menu_id": "morning"
+      },
+      {
+        "background_image": "/assets/Imagine/l02.jpg",
+        "desc": "05.21.Snack",
+        "menu_id": "snack"
+      }
+    ]
+  },
+  "my_record_page": {
+    "categories": [
+      {
+        "id": "body-record",
+        "title": "BODY RECORD",
+        "desc": "オススメ",
+        "image": "/assets/Imagine/MyRecommend-1.jpg",
+        "link": {
+          "title": "自分のカラダの記録",
+          "href": "/"
+        }
+      },
+      {
+        "id": "my-exercise",
+        "title": "MY EXERCISE",
+        "desc": "オススメ",
+        "image": "/assets/Imagine/MyRecommend-2.jpg",
+        "link": {
+          "title": "自分のカラダの記録",
+          "href": "/"
+        }
+      },
+      {
+        "id": "my-diary",
+        "title": "MY DIARY",
+        "desc": "オススメ",
+        "image": "/assets/Imagine/MyRecommend-3.jpg",
+        "link": {
+          "title": "自分のカラダの記録",
+          "href": "/"
+        }
+      }
+    ],
+    "my_record": [
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      },
+      {
+        "date": "2021.05.17",
+        "time": "23:25",
+        "desc": "私の日記の記録が一部表示されます。テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…"
+      }
+    ],
+    "my_exercises": [
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      },
+      {
+        "title": "家事全般（立位・軽い）",
+        "energy": "26kcal",
+        "timer": "10 min"
+      }
+    ]
+  },
+  "column_page": {
+    "product_categories": [
+      {
+        "title": "Recommended Column",
+        "desc": "オススメ",
+        "id": "column"
+      },
+      {
+        "title": "Recommended Diet",
+        "desc": "オススメ",
+        "id": "diet"
+      },
+      {
+        "title": "Recommended Beauty",
+        "desc": "オススメ",
+        "id": "beauty"
+      },
+      {
+        "title": "Recommended Healthy",
+        "desc": "オススメ",
+        "id": "healthy"
+      }
+    ],
+    "recommended_products": [
+      {
+        "image": "/assets/Imagine/column-1.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-2.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-3.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-4.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-5.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-6.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-7.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      },
+      {
+        "image": "/assets/Imagine/column-8.jpg",
+        "date": "2021.05.17",
+        "time": "23:25",
+        "title": "魚を食べて頭もカラダも元気に！知っておきたい魚を食べるメリ 魚を食べるメリ ",
+        "tags": ["魚料理", "和食", "DHA"],
+        "product_category": "column"
+      }
+    ]
+  },
+  "headers": [
+    {
+      "icon": "/assets/icons/icon_menu_1.svg",
+      "title": "自分の記録",
+      "badge": false
+    },
+    {
+      "icon": "/assets/icons/icon_menu_2.svg",
+      "title": "チャレンジ",
+      "badge": false
+    },
+    {
+      "icon": "/assets/icons/icon_info.svg",
+      "title": "お知らせ",
+      "badge": true
+    }
+  ],
+  "header_menus": [
+    {
+      "title": "自分の記録",
+      "link": {
+        "title": "",
+        "href": "/my-diary"
+      },
+      "count": 0
+    },
+    {
+      "title": "体重グラフ",
+      "link": {
+        "title": "体重グラフ",
+        "href": "/my-record"
+      },
+      "count": 0
+    },
+    {
+      "title": "目標",
+      "link": {
+        "title": "目標",
+        "href": "/"
+      },
+      "count": 1
+    }
+  ],
+  "more_menus": [],
+  "footer": [
+    {
+      "icon": "",
+      "title": "会員登録",
+      "href": "/"
+    },
+    {
+      "icon": "All",
+      "title": "運営会社",
+      "href": "/"
+    },
+    {
+      "icon": "All",
+      "title": "利用規約",
+      "href": "/"
+    },
+    {
+      "icon": "All",
+      "title": "個人情報の取扱について",
+      "href": "/"
+    },
+    {
+      "icon": "All",
+      "title": "特定商取引法に基づく表記",
+      "href": "/"
+    },
+    {
+      "icon": "All",
+      "title": "お問い合わせ",
+      "href": "/"
+    }
+  ]
+}
